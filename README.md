@@ -1,6 +1,6 @@
 # DocuLens – Document Scanner & Organizer for iOS
 
-![image]()
+![image](assets/doculens-mobile.webp)
 
 ---
 
